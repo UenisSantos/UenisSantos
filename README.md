@@ -1,4 +1,4 @@
-## Oiii eu sou apaixonado  por  programação e tecnologia!
+## Oiii eu sou desenvolvedor Front End apaixonado  por  programação e tecnologia !
 <div align="center">
   <a href="https://github.com/uenisSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uenisSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,8 +1,28 @@
-## Oiii eu sou desenvolvedor Front End apaixonado  por  programação e tecnologia !
+## Seja bem-vinda (o) ao meu perfil.
+
+Meu nome é Uenis de jesus Santos sou uma pessoa otimista que acredita no poder do propósito .
+Recentemente adquirir um gosto peculiar de escrever artigos no linkedin.
+ Sou proativo, estratégico , processual e enérgico.Gosto de mim sentir util na equipe e manter um bom posicionamento na liderança em grupo.
+ A liberdade de atuação com foco em geração de resultado mim motiva,
+ afinal o sucesso da organização não é negociável''
+
+Maiores informações ,me chame pra conversar
+
+● PENSAMENTOS:
+Há 4 anos programo para me divertir. Mas às vezes me estresso. 
+ Porén apenas 2 anos que programo penssando em ser um profissional
+
+
+● SONHOS:
+Aprimorar minhas habilidades no desenvolvimento de software .
+Projetar uma futura posição no desenvolvimento Full Stack.
+Desenvolver minha carreira sob supervisão e estimulo de uma empresa
+Comprometida com a inovação!
+
 <div align="center">
-  <a href="https://github.com/uenisSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uenisSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uenisSantos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/uenissantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uenissantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uenissantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
 
